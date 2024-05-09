@@ -1,5 +1,8 @@
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
+## Name : H Vishinu 
+## Reg.No : 212223220124
+
 # AIM:
 To Write a C program that illustrates files copying and locking
 
